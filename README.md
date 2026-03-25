@@ -35,3 +35,11 @@ Isso permite:
 - Utilizar como software comum  
 
 
+## 📸 Preview
+
+<img width="1361" height="676" alt="{DCBBC70E-43E5-49AD-86DD-4EC9BD3F5C8C}" src="https://github.com/user-attachments/assets/d9cfd163-0844-43fc-8fff-db55a281d99b" />
+<img width="1364" height="674" alt="{D5B4BFDB-3B1D-412D-BAFD-5AF8AD9078A8}" src="https://github.com/user-attachments/assets/a0b67d40-18cf-475c-9123-913bfbc7f3b8" />
+<img width="1358" height="678" alt="{2E616034-ECA4-4A34-989C-7C441BCE1E2A}" src="https://github.com/user-attachments/assets/a8a79f86-6e41-418a-be5f-d98cf81dd1ae" />
+<img width="1359" height="677" alt="{694B4211-D29E-42C8-8943-2127216CDD4F}" src="https://github.com/user-attachments/assets/25cc283e-aa76-4240-8f5b-021960455e7c" />
+
+---
